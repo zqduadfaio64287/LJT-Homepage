@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &amp;name "Junteng Liu"
 description              : &amp;description "Junteng Liu's academic homepage"
 url                      : https://zqduadfaio64287.github.io
-baseurl                  : ""
-repository               : "zqduadfaio64287/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "zqduadfaio64287/LJT-Homepage"
 
 # Site Author
 author:
@@ -320,7 +320,7 @@ whitelist:
 #  - GitHub Pages compatible archive pages built with liquid ~ good for simple implementations
 #  - Jekyll Archives plugin archive pages ~ good for performance
 #  Number (for Jekyll Archives plugin archive pages only)
-#  - Number of years (oldest to newest) to show
+#  - Number of years (oldest to newest)
 #  - Number of posts per page
 #  - Number of recent posts to show
 #  - Number of tags to show
