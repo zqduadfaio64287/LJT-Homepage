@@ -41,8 +41,6 @@ Publications
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** - Co-author, NeurIPS 2023
 - **Composing Parameter-Efficient Modules with Arithmetic Operations** - Co-author, NeurIPS 2023
 
-[View all publications &rarr;](/publications/)
-
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
